@@ -14,4 +14,4 @@ If my projects didn't already give it away, I'm also very passionate about food 
 
 Feel free to reach out at (jimmy.kuang96@gmail.com) if you'd like to talk!
 
-Also, connect with me on Linkedin!(https://www.linkedin.com/in/jimmy-kuang-789967183/)
+Also, connect with me on [Linkedin!](https://www.linkedin.com/in/jimmy-kuang-789967183/)
