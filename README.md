@@ -10,7 +10,6 @@ Take a look at some of the projects I've done:
 
 + [Pantry Chef](https://github.com/JimmyKuangg/Pantry_Chef) - A MERN stack application that gives users recipe suggestions based on what they have available.
 
-
-Feel free to reach out at (jimmy.kuang96@gmail.com) if you'd like to work together!
+More on me: https://www.jimmy-kuang.com/
 
 Also, connect with me on [Linkedin!](https://www.linkedin.com/in/jimmy-kuang-789967183/)
